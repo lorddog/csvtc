@@ -1,0 +1,32 @@
+Kundennr;Name;Vorname;Straße;PLZ;Ort;Umsatz 2025;Bemerkung
+10001;Müller;Anna;Hauptstraße 12;50667;Köln;12.450,80;Stammkundin
+10002;Schmidt;Bernd;Lindenweg 3;80331;München;3.210,00;
+10003;Schneider;Clara;Am Markt 1;20095;Hamburg;845,50;"Lieferung nur ""nachmittags"""
+10004;Fischer;David;Gartenstraße 45;10115;Berlin;27.990,10;"Rechnung per Post;
+nicht per Mail"
+10005;Weber;Eva;Bahnhofstraße 7;60311;Frankfurt am Main;0,00;Neukunde
+10006;Meyer;Frank;Schulweg 22;70173;Stuttgart;1.120,40;
+10007;Wagner;Greta;Rosenstraße 9;40213;Düsseldorf;9.876,54;Rabatt 5 %
+10008;Becker;Hans;Kirchplatz 2;04109;Leipzig;450,00;
+10009;Schulz;Ines;Waldweg 18;01067;Dresden;6.300,25;
+10010;Hoffmann;Jan;Bergstraße 5;30159;Hannover;2.780,90;"Ansprechpartner: Herr Hoffmann, Einkauf"
+10011;Schäfer;Karin;Ringstraße 30;90402;Nürnberg;15.002,00;
+10012;Koch;Lukas;Mühlenweg 11;44135;Dortmund;380,75;
+10013;Bauer;Marie;Feldstraße 4;45127;Essen;7.450,00;Zahlt immer pünktlich
+10014;Richter;Nils;Talstraße 16;28195;Bremen;1.999,99;
+10015;Klein;Olga;Parkallee 8;68159;Mannheim;12,30;
+10016;Wolf;Paul;Seestraße 21;76133;Karlsruhe;4.560,00;
+10017;Schröder;Quentin;Ahornweg 6;65183;Wiesbaden;890,10;
+10018;Neumann;Rita;Burgstraße 14;48143;Münster;3.333,33;
+10019;Schwarz;Sven;Eichenallee 2;53111;Bonn;21.750,60;Großkunde
+10020;Zimmermann;Tina;Brunnenstraße 19;86150;Augsburg;640,00;
+10021;Braun;Uwe;Wiesenweg 27;52062;Aachen;1.050,00;
+10022;Krüger;Vera;Hafenstraße 3;24103;Kiel;5.505,50;
+10023;Hofmann;Walter;Lessingstraße 10;39104;Magdeburg;720,20;
+10024;Hartmann;Xenia;Goethestraße 33;06108;Halle (Saale);2.468,00;
+10025;Lange;Yusuf;Schillerplatz 1;99084;Erfurt;9.090,90;
+10026;Schmitt;Zoe;Mozartweg 15;55116;Mainz;333,00;
+10027;Werner;Achim;Beethovenstraße 8;18055;Rostock;14.200,00;
+10028;Schmitz;Birgit;Bachstraße 24;66111;Saarbrücken;1.230,45;
+10029;Krause;Carsten;Händelweg 5;19053;Schwerin;87,65;
+10030;Meier;Doris;Wagnerstraße 12;14467;Potsdam;6.000,00;Letzte Zeile

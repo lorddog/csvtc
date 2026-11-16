@@ -1,0 +1,16 @@
+# Build-Verzeichnisse (cmake -B ...)
+build/
+build32/
+build64/
+dist/
+testdata/out/
+csvtc.zip
+
+# Visual Studio
+*.user
+.vs/
+
+# Compiled binaries in build subdirs (nicht in dist/)
+*.lib
+*.exp
+*.pdb

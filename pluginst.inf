@@ -1,0 +1,5 @@
+[plugininstall]
+description=CsvTC - CSV viewer and editor / CSV-Viewer und -Editor
+type=wlx
+file=csvtc.wlx
+defaultdir=CsvTC
